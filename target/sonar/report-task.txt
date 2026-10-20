@@ -1,0 +1,6 @@
+projectKey=rockpaperscizores
+serverUrl=http://localhost:9000
+serverVersion=26.10.0.133078
+dashboardUrl=http://localhost:9000/dashboard?id=rockpaperscizores
+ceTaskId=0825fc70-25f3-4562-bcaf-8d8a73458102
+ceTaskUrl=http://localhost:9000/api/ce/task?id=0825fc70-25f3-4562-bcaf-8d8a73458102
